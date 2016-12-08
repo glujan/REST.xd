@@ -1,2 +1,2 @@
 # REST.xd
-a python json api for different uses
+a GREAT python json api for STRANGE (different) uses
