@@ -1,7 +1,9 @@
 GOOGLE_SHORT    = "https://content.googleapis.com/urlshortener/v1/url?key={key}&alt=json"
+GOOGLE_SHORTER  = "https://bit.ly/123124"
 GOOGLE_API_KEY  = ""
 
 OSU_KEY         = ""
+OSU_INSEC_KEY	= "123456789"
 OSU_USER        = "https://osu.ppy.sh/api/get_user"
 
 INSULT_LINK     = "http://www.insultgenerator.org/"
