@@ -6,7 +6,7 @@ import collections
 from datetime import datetime, timedelta
 from apricot.utils import urlencode, generateID, json
 
-SIMPLY_CLEVER = False
+SIMPLY_CLEVER = False  # False is better in this case
 SESSION_EXPIRE_MIN = 30
 CLEVER_DICT = collections.OrderedDict(
 	(
